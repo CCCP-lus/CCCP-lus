@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨个人简介
+在下行走江湖，绰号CCC。  
+cccp_lus@bjfu.deu.cn
+## 🌱教育经历
+2021-2025 北京林业大学 计算机科学与技术 本科生
+## 💬科研经历
 
-<!--
-**CCCP-lus/CCCP-lus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😄获奖经历
+2022年 国家奖学金
 
-Here are some ideas to get you started:
+## ⚡竞赛经历
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭工作经历
+
+## 👯其他经历
+
+# ✨林小圈
