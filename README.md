@@ -1,7 +1,7 @@
 # ✨个人简介
-在下行走江湖，绰号CCC。  
-我的CSDN主页是：https://blog.csdn.net/CCCP_lus。  
-你可以从这里联系我：cccp_lus@bjfu.edu.cn。  
+在下行走江湖，绰号CCC 。  
+我的CSDN主页是：https://blog.csdn.net/CCCP_lus 。  
+你可以从这里联系我：cccp_lus@bjfu.edu.cn 。  
 ## 🌱教育经历
 2018-2021 某全国百强中学 班级吊车尾  
 2021-2025 北京林业大学 计算机科学与技术 普通本科生  
